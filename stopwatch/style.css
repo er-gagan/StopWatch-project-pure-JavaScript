@@ -1,0 +1,32 @@
+#header{
+    text-align: center;
+    margin: 0;
+}
+.container {
+    display: table;
+    /* border: 1px solid; */
+    margin: auto;
+    border-radius: 31%;
+    padding: 13px;
+}
+
+#stopwatch {
+    font-size: 100px;
+}
+
+.control {
+    /* border: 1px solid; */
+    margin: auto;
+    display: table;
+    padding: 5px;
+}
+
+.btn {
+    font-size: 35px;
+    margin: 10px;
+    width: 154px;
+}
+#listData{
+    margin: auto;
+    display: table;
+}
